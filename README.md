@@ -1,5 +1,7 @@
-# Calculator-Chat
+<img width="1565" height="850" alt="image" src="https://github.com/user-attachments/assets/419e7c1d-ba22-4743-9147-e567be68ad2a" /># Calculator-Chat
 Stealth-Comms is a secure, P2P chat application disguised as a functional calculator. Using PeerJS (WebRTC), it establishes direct, serverless connections between users. Conversations are triggered by a secret code, ensuring visual privacy and zero data logging. Perfect for ephemeral, private communication without a digital footprint.
+<img width="1565" height="850" alt="image" src="https://github.com/user-attachments/assets/747247ab-ce4a-42f9-9e56-6f02d7c15c19" />
+
 
 
 Stealth-Comms: The Secure P2P Vault Chat
